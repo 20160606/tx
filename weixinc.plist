@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comcaishensmall_631617_bb52061d-48c3-4848-a6a9-fda8d5f9a86b.ipa</string>
+					<string>http://ojv5vulo2.bkt.clouddn.com/6.5.7.32.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.tencent.xin.dailybuild</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>6.5.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>小橙</string>
+				<string>小灰-更多精品软件加微信号:bt2019</string>
 				<key>title</key>
-				<string>小橙</string>
+				<string>小灰-更多精品软件加微信号:bt2019</string>
 			</dict>
 		</dict>
 	</array>
