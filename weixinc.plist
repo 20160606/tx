@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ttps://s.beta.myapp.com/myapp/rdmexp/exp/file/comfenshenb001_651254_d95ec01e-6474-4096-83fe-f760e6493e6e.ipa kind display-image needs-shine</string>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comfenshenb001_651254_d95ec01e-6474-4096-83fe-f760e6493e6e.ipa kind display-image needs-shine</string>
 				</dict>
 				<dict>
 					<key>kind</key>
