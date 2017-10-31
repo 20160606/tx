@@ -13,19 +13,35 @@
 					<key>url</key>
 					<string>http://oxz3adayo.bkt.clouddn.com/%E7%9B%B4%E6%92%AD%E5%8A%A9%E6%89%8B.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://tx992.com/images/tx.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://tx992.com/images/tx.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>[BundleID]</string>
+				<string>com.zg.txapp</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string></string>
+				<string>直播助手</string>
 				<key>title</key>
-				<string>直播助手(免费录屏)-公众号:bt2019</string>
+				<string>直播助手</string>
 			</dict>
 		</dict>
 	</array>
