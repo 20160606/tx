@@ -75,18 +75,18 @@
 },
 {
 "thumb": "http://public.immmmmm.com/images/cateicon/2.png",
-"name": "棉服",
-"url": "/pages/api/qingtaoke/list?type=cid&so=棉服"
+"name": "女棉服",
+"url": "/pages/api/qingtaoke/list?type=cid&so=女棉服"
 },
 {
 "thumb": "http://public.immmmmm.com/images/cateicon/3.png",
-"name": "毛衣",
-"url": "/pages/api/qingtaoke/list?type=cid&so=毛衣"
+"name": "女毛衣",
+"url": "/pages/api/qingtaoke/list?type=cid&so=女毛衣"
 },
 {
 "thumb": "http://public.immmmmm.com/images/cateicon/4.png",
-"name": "外套",
-"url": "/pages/api/qingtaoke/list?type=cid&so=外套"
+"name": "女外套",
+"url": "/pages/api/qingtaoke/list?type=cid&so=女外套"
 },
 {
 "thumb": "http://public.immmmmm.com/images/cateicon/5.png",
